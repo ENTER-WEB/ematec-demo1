@@ -639,6 +639,10 @@ body.menu-open {
   margin: 0 auto 24px;
 }
 
+body:not(.sitemap-page) main > section:not(.hero) {
+  min-height: 500px;
+}
+
 .section,
 .stats-band,
 .feature-band,
