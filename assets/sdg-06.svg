@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="SDGs 6 安全な水とトイレを世界中に">
+  <rect width="1024" height="1024" fill="#00a7d6"/>
+  <text x="72" y="286" fill="#fff" font-family="Arial, 'Yu Gothic', sans-serif" font-size="205" font-weight="900">6</text>
+  <text x="270" y="164" fill="#fff" font-family="'Yu Gothic', 'Hiragino Kaku Gothic ProN', sans-serif" font-size="82" font-weight="900">安全な水とトイレ</text>
+  <text x="270" y="280" fill="#fff" font-family="'Yu Gothic', 'Hiragino Kaku Gothic ProN', sans-serif" font-size="82" font-weight="900">を世界中に</text>
+  <path d="M342 420h360l-58 390H400z" fill="#fff"/>
+  <path d="M350 420h344l-22 95c-72-18-116 28-186 6-50-16-75-2-112 11z" fill="#00a7d6"/>
+  <path d="M518 570c-48 70-70 102-70 142 0 54 42 88 90 88s90-34 90-88c0-40-24-72-70-142l-20-30z" fill="#00a7d6"/>
+  <path d="M476 810h124v62l48 0-110 94-110-94h48z" fill="#fff"/>
+</svg>

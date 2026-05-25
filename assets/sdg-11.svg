@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="SDGs 11 住み続けられるまちづくりを">
+  <rect width="1024" height="1024" fill="#f5a400"/>
+  <text x="58" y="286" fill="#fff" font-family="Arial, 'Yu Gothic', sans-serif" font-size="190" font-weight="900">11</text>
+  <text x="286" y="164" fill="#fff" font-family="'Yu Gothic', 'Hiragino Kaku Gothic ProN', sans-serif" font-size="78" font-weight="900">住み続けられる</text>
+  <text x="286" y="276" fill="#fff" font-family="'Yu Gothic', 'Hiragino Kaku Gothic ProN', sans-serif" font-size="78" font-weight="900">まちづくりを</text>
+  <path d="M166 770l78-102 78 102zM166 792h166v130h-56v-78h-54v78h-56z" fill="#fff"/>
+  <path d="M354 408h160v514H354z" fill="#fff"/>
+  <path d="M536 680l160-192v434H536zM718 708h162v214H718zM718 654h162v38H718z" fill="#fff"/>
+  <g fill="#f5a400">
+    <rect x="382" y="480" width="38" height="42"/><rect x="452" y="480" width="38" height="42"/>
+    <rect x="382" y="572" width="38" height="42"/><rect x="452" y="572" width="38" height="42"/>
+    <rect x="382" y="664" width="38" height="42"/><rect x="452" y="664" width="38" height="42"/>
+    <rect x="382" y="756" width="38" height="42"/><rect x="452" y="756" width="38" height="42"/>
+    <rect x="560" y="726" width="50" height="38"/><rect x="624" y="726" width="50" height="38"/>
+    <rect x="560" y="800" width="50" height="38"/><rect x="624" y="800" width="50" height="38"/>
+    <rect x="742" y="792" width="48" height="38"/><rect x="810" y="792" width="48" height="38"/>
+  </g>
+</svg>

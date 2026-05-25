@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="SDGs 12 つくる責任つかう責任">
+  <rect width="1024" height="1024" fill="#d39200"/>
+  <text x="58" y="286" fill="#fff" font-family="Arial, 'Yu Gothic', sans-serif" font-size="190" font-weight="900">12</text>
+  <text x="360" y="154" fill="#fff" font-family="'Yu Gothic', 'Hiragino Kaku Gothic ProN', sans-serif" font-size="82" font-weight="900">つくる責任</text>
+  <text x="360" y="276" fill="#fff" font-family="'Yu Gothic', 'Hiragino Kaku Gothic ProN', sans-serif" font-size="82" font-weight="900">つかう責任</text>
+  <path d="M348 670c0-112 78-188 170-188 86 0 130 58 178 142 44 78 82 124 156 124 60 0 104-44 104-104s-44-104-104-104c-58 0-92 30-130 82" fill="none" stroke="#fff" stroke-width="48" stroke-linecap="round"/>
+  <path d="M472 764c-34 42-88 66-148 66-114 0-204-78-204-188s86-188 196-188c92 0 154 50 212 144" fill="none" stroke="#fff" stroke-width="48" stroke-linecap="round"/>
+  <path d="M456 762l70-20-12 72z" fill="#fff"/>
+</svg>

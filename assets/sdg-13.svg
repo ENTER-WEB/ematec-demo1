@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="SDGs 13 気候変動に具体的な対策を">
+  <rect width="1024" height="1024" fill="#3f7e38"/>
+  <text x="58" y="286" fill="#fff" font-family="Arial, 'Yu Gothic', sans-serif" font-size="190" font-weight="900">13</text>
+  <text x="316" y="164" fill="#fff" font-family="'Yu Gothic', 'Hiragino Kaku Gothic ProN', sans-serif" font-size="78" font-weight="900">気候変動に</text>
+  <text x="316" y="276" fill="#fff" font-family="'Yu Gothic', 'Hiragino Kaku Gothic ProN', sans-serif" font-size="78" font-weight="900">具体的な対策を</text>
+  <path d="M132 646c138-160 294-238 462-206 134 26 238 110 330 206-106 116-240 186-396 186S242 762 132 646z" fill="#fff"/>
+  <circle cx="512" cy="646" r="168" fill="#3f7e38"/>
+  <path d="M424 558c38-28 98-58 146-34 44 22 72 62 80 118 6 42-8 84-34 118-60 34-144 26-204-34-50-50-60-118-28-168z" fill="#fff"/>
+  <path d="M350 644c70-54 98-86 136-154 74 14 134 52 168 118-62 2-92 32-84 88-44 36-96 58-154 62-42-26-64-64-66-114z" fill="#3f7e38"/>
+</svg>
