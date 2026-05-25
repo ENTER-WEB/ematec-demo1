@@ -1,2 +1,6 @@
 chrome-profile*/
 homepage-preview*.png
+encrypted/
+decrypted-check/
+publish/
+.staticrypt.json
