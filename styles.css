@@ -978,8 +978,16 @@ h2 {
   z-index: 1;
 }
 
-.contact-cta h2 { margin-bottom: 0; }
-.contact-cta p { margin: 0; color: white; }
+.contact-cta h2 {
+  margin-bottom: -2px;
+  line-height: 1.16;
+}
+
+.contact-cta p {
+  margin: 0;
+  color: white;
+  line-height: 1.55;
+}
 
 .site-footer {
   display: flex;
